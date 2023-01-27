@@ -1,2 +1,2 @@
 # DRF_PET_SELLER
-creating api for ecoomerce website (petseller) 
+creating api for ecommerce website (petseller) 
